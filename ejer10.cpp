@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-    long long primo=1, cont=0, a=2000000;
+    long long primo=1, cont=0, a=2000000; //demora al compilar con el numero 2000000
     double suma=0;
 
     while(primo<=a){ 
